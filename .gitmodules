@@ -1,0 +1,8 @@
+[submodule "redis"]
+	path = redis
+	url = https://github.com/redis/redis.git
+	branch = 7.2
+[submodule "FalkorDB"]
+	path = FalkorDB
+	url = git@github.com:Lincyaw/FalkorDB.git
+	branch = coverage-v4.0.0-a1
